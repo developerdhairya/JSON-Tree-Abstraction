@@ -1,0 +1,22 @@
+{
+  "name": "json-explorer",
+  "version": "1.0.0",
+  "description": "Logic for Json-Tree Manipulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/decoder-17/json-explorer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/decoder-17/json-explorer/issues"
+  },
+  "homepage": "https://github.com/decoder-17/json-explorer#readme",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  }
+}
